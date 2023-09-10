@@ -1,0 +1,6 @@
+[submodule "FoodCoasterApp"]
+	path = FoodCoasterApp
+	url = https://github.com/shadan1234/FoodCoasterApp.git
+[submodule "FoodCoaster"]
+	path = FoodCoaster
+	url = https://github.com/shadan1234/FoodCoaster.git
